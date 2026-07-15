@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-y71cvw.akakq.asia/sitemap.xml
